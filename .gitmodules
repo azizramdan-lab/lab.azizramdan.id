@@ -1,0 +1,3 @@
+[submodule "themes/azizramdan-lab-theme"]
+	path = themes/azizramdan-lab-theme
+	url = git@github.com:azizramdan-lab/azizramdan-lab-theme.git
